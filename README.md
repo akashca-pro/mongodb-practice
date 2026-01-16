@@ -114,6 +114,14 @@ mongodb-practice/
 - `fullTextSearch.js` - Atlas Search, fuzzy matching
 - `dataValidation.js` - Data quality, migrations
 
+### 13 - Practice Problems (5 files, 175+ problems)
+
+- `01-crud-problems.js` - Find, Insert, Update, Delete, Query Operators
+- `02-aggregation-problems.js` - Pipeline Stages, Accumulators, $lookup, $facet
+- `03-indexing-problems.js` - Index Types, explain(), Query Optimization
+- `04-data-modeling-problems.js` - Embedding vs Referencing, Patterns, Validation
+- `05-transactions-advanced-problems.js` - Transactions, Change Streams, Bulk Ops
+
 ## File Format
 
 Each file follows a consistent educational format:
