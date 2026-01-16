@@ -23,9 +23,10 @@ mongodb-practice/
 
 ## Topics Covered
 
-### 01 - Fundamentals (5 files)
+### 01 - Fundamentals (6 files)
 
 - `mongodbArchitecture.js` - Components, storage engine, deployment
+- `storageAndConsistency.js` - WiredTiger, Journaling, MVCC, CAP, ACID, BASE
 - `bsonAndDataTypes.js` - BSON format, all data types
 - `collectionsAndDocuments.js` - Documents, collections, validation
 - `mongoShell.js` - mongosh commands and operations
