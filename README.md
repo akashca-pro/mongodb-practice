@@ -91,11 +91,12 @@ mongodb-practice/
 - `fieldLevelEncryption.js` - Client-side field level encryption
 - `auditLogging.js` - Audit configuration and analysis
 
-### 10 - Replication and Sharding (3 files)
+### 10 - Replication and Sharding (4 files)
 
-- `replicaSetsAndSharding.js` - HA and horizontal scaling
-- `readWriteConcerns.js` - Consistency levels, causal consistency
-- `shardKeyStrategies.js` - Shard key selection, zones
+- `replicaSetsAndSharding.js` - Replica set architecture, oplog, elections, failover, monitoring
+- `sharding.js` - Sharded cluster architecture, chunks, balancer, query routing
+- `readWriteConcerns.js` - Write/read concerns, causal consistency, transactions
+- `shardKeyStrategies.js` - Shard key selection, anti-patterns, zone sharding
 
 ### 11 - Mongoose ODM (5 files)
 
